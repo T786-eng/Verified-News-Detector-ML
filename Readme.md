@@ -51,9 +51,9 @@ This project focuses on the critical problem of misinformation in the digital ag
 
 💻 Usage
 Run the following command to launch the local web server:
-    ```bash
+```
     streamlit run app.py
-    ```
+```
 
 📊 Technical Stack
 - Language: Python
