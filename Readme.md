@@ -58,4 +58,3 @@ Run the following command to launch the local web server:
 - Vectorization: TF-IDF
 
 - Model: Logistic Regression
-
