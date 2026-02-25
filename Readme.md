@@ -35,9 +35,9 @@ This project focuses on the critical problem of misinformation in the digital ag
      python -m venv venv
 
 # Activate (Windows)
-    ```
+```
     .\venv\Scripts\activate
-    ```
+```
 
 # Activate (macOS/Linux)
 ```
