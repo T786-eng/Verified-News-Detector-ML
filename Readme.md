@@ -31,13 +31,17 @@ This project focuses on the critical problem of misinformation in the digital ag
 2. **Set up Environment:**
     ```bash
     # Create a virtual environment
-python -m venv venv
+     python -m venv venv
 
 # Activate (Windows)
-.\venv\Scripts\activate
+    ```
+    .\venv\Scripts\activate
+    ```
 
 # Activate (macOS/Linux)
-source venv/bin/activate
+```
+    source venv/bin/activate
+```
 
 3. **install Dependencies:**
     ```bash
