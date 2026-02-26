@@ -12,9 +12,12 @@ This project focuses on the critical problem of misinformation in the digital ag
 - **Robust Classification**: Uses a Logistic Regression model trained for high-precision text classification.
 - **Feature Engineering**: Implements TF-IDF Vectorization to convert textual data into meaningful numerical features.
 
-
-- **Live Dashboard**:The system is fully deployed and accessible here:
-[https://verified-news-detector-ml-uqm7hn4ptutgo4xvhvivkd.streamlit.app/]
+---
+## 🚀 Live Dashboard
+The system is fully deployed and accessible here:  
+🔗 **[Verified News Detector Live Interface]
+ (https://verified-news-detector-ml-uqm7hn4ptutgo4xvhvivkd.streamlit.app/)**
+---
 
 
 ## 📂 Project Structure
