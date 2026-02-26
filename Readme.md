@@ -11,8 +11,11 @@ This project focuses on the critical problem of misinformation in the digital ag
 - **Advanced Text Cleaning**: A custom pipeline to handle noisy data by removing URLs, HTML tags, punctuation, and digits.
 - **Robust Classification**: Uses a Logistic Regression model trained for high-precision text classification.
 - **Feature Engineering**: Implements TF-IDF Vectorization to convert textual data into meaningful numerical features.
-- **Live Dashboard**: An intuitive user interface built with **Streamlit** for real-time predictions.  
+
+
+- **Live Dashboard**:The system is fully deployed and accessible here:
 [https://verified-news-detector-ml-uqm7hn4ptutgo4xvhvivkd.streamlit.app/]
+
 
 ## 📂 Project Structure
 - `main.py`: Core script for data cleaning, training, and model evaluation.
