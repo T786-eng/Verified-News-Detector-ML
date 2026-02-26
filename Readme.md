@@ -49,7 +49,10 @@ Verified-News-Detector-ML/
     ├── Fake.csv                 # Misinformation Training Data
     └── True.csv                 # Verified News Training Data
 
+```
+
 ## 🔧 Installation & Setup
+
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/T786-eng/Verified-News-Detector-ML.git](https://github.com/T786-eng/Verified-News-Detector-ML.git)
